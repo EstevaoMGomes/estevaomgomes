@@ -1,11 +1,4 @@
-<!-- # Hi there! 👋  
-I'm **Estêvão Gomes**, a Master's student at TUM 🇩🇪.  
-
-- 🎓 Studying: Computer Science  
-- 🔬 Interests: AI, Machine Learning, and Open Source  
-- 🌍 From: Portugal 🇵🇹   -->
-
-# Hi there! 👋  
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I'm **Estêvão Gomes**, a Master's student at TUM 🇩🇪
 
 - 🎓 Studying: **Engineering Physics**, spetializing in **Nuclear Fusion**, **Machine Learning** and **High Performance Computing**
@@ -23,7 +16,7 @@ I'm **Estêvão Gomes**, a Master's student at TUM 🇩🇪
 - 🌀 Implementing a robust algorithm to automatically detect QCMs in an EDA-H configuration od ASDEX-Upgrade via THB diagnostics
   
 ## 📄 Check Out My Résumé  
-📌 **[View My Résumé](https://EstevaoMGomes.github.io/docs/Estêvão_Gomes_CV.pdf)**  
+📌 **[Download My Résumé](https://github.com/EstevaoMGomes/estevaomgomes/raw/main/docs/Estêvão_Gomes_CV.pdf)**  
 
 ## 🚀 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/estevao-gomes)  
