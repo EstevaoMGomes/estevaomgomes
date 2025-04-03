@@ -16,12 +16,7 @@ I'm **Estêvão Gomes**, a Master's student at TUM 🇩🇪
 - 🌀 Implementing a robust algorithm to automatically detect QCMs in an EDA-H configuration od ASDEX-Upgrade via THB diagnostics
   
 ## 📄 Check Out My Résumé  
-📌 **[Download My Résumé](https://github.com/EstevaoMGomes/estevaomgomes/raw/main/docs/Estêvão_Gomes_CV.pdf)**  
-
-## 🚀 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/estevao-gomes)  
-- [ORCID](https://orcid.org/0009-0005-4855-3872) 
-- 📩 [estevao.gomes@tum.de](mailto:estevao.gomes@tum.de)  
+💾 **[Download My Résumé](https://github.com/EstevaoMGomes/estevaomgomes/raw/main/docs/Estêvão_Gomes_CV.pdf)**  
 
 ## Skills
 
