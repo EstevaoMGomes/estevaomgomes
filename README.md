@@ -13,7 +13,7 @@ I'm **Estêvão Gomes**, a Master's student at TUM 🇩🇪
  
 📚 **Currently Working On**  
 - 📌 Contributing to **[ESSOS](https://github.com/UWPlasma/essos)** at the UW Plasma group, developing simulations for optimizing stellarator configurations  
-- 🌀 Implementing a robust algorithm to automatically detect QCMs in an EDA-H configuration od ASDEX-Upgrade via THB diagnostics
+- 🌀 Teaching assistant for [Introduction to Deep Learning](https://www.3dunderstanding.org/i2dl-s25/) at TUM
   
 ## 📄 Check Out My Résumé  
 💾 **[Download My Résumé](https://github.com/EstevaoMGomes/estevaomgomes/raw/main/docs/Estêvão_Gomes_CV.pdf)**  
